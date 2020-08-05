@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Programming\C++\Paradise\Source.cpp(197,5): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Programming\C++\Paradise\Source.cpp(217,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\C++\Paradise\Source.cpp(219,18): warning C4101: 'index': unreferenced local variable
+C:\Programming\C++\Paradise\Source.cpp(51): warning C4715: 'loadBMP_custom': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Source.obj : warning LNK4006: "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z) already defined in loadShader.obj; second definition ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Programming\C++\Paradise\x64\Debug\Paradise.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Paradise.vcxproj -> C:\Programming\C++\Paradise\x64\Debug\Paradise.exe
